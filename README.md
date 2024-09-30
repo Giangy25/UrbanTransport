@@ -43,3 +43,13 @@ Follow these steps:
      Using the command:
 
          node app.js
+
+
+##  Try It!
+You can try it here: [Veggy Mood](https://codepen.io/Giangy25/pen/WNVQLGb?editors=1111)
+
+## :envelope: Contact
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/angiirosi/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/angela-rosace-744925291/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/Giangy25?tab=repositories)
+ 
