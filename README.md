@@ -9,20 +9,21 @@ Follow these steps:
  1. **Clone the Repository**:
       In your local machine use the following command:
 
-     git clone https://github.com/Giangy25/UrbanTransport.git
+        git clone https://github.com/Giangy25/UrbanTransport.git
     
  3. **Navigate to the Project Directory**:
     After de first step, navigate to the project directory usind the command:
     
-     cd UrbanTransport
+        cd UrbanTransport
     
  5. **Install Dependencies**:
     
-      npm install
+        npm install
     
  7. **Install the TypeScript Transpiler**
-    
-      npm install -g typescript
+
+
+        npm install -g typescript
     
  9. **Compile TypeScript code**:
      You need to compile the TypeScript code into JavaScript before running it. To compile use:
@@ -31,5 +32,5 @@ Follow these steps:
     
  11. **Run the Project**:
      Using the command:
-     
-        node app.js
+
+         node app.js
