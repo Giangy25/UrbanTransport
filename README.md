@@ -1,7 +1,8 @@
 # THE PROJECT
-This project is the final practice for Start2Impact TypeSCript course
+This project is the final practice for Start2Impact TypeSCript course.
 
-##
+
+### Mission:
 This project aims to develop a system in TypeScript that models the organicational structure of Moove, an innovative shared micromobility service. 
 
 ## How to Install and Run the project
