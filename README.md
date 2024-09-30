@@ -2,15 +2,15 @@
 This project is the final practice for Start2Impact TypeSCript course, and aims to develop a system in TypeScript that models the organicational structure of Moove, an innovative shared micromobility service. 
 
 ## Requirements
- .Define an IMezzo interface to represent the means of transport;
+ -Define an IMezzo interface to represent the means of transport;
  
- .Define a User interface to represent the users of the service;
+ -Define a User interface to represent the users of the service;
  
- .Define an ICittà interface to represent the cities in which Moove operates;
+ -Define an ICittà interface to represent the cities in which Moove operates;
 
- .Then, implements the Mezzo, Utente and Città classes;
+ -Then, implements the Mezzo, Utente and Città classes;
  
- .Instantiate and test the logic.
+ -Instantiate and test the logic.
  
 
 ## How to Install and Run the project
